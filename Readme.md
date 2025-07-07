@@ -1,6 +1,6 @@
 <p align="center">
   
-<p align="center">
+<p align="left">
   <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 </p>
 
