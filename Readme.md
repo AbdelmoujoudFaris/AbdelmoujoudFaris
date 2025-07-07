@@ -11,7 +11,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm FARIS</h1>
+<h1 align="center">Hi 👋, I'm FARIS Abdelmoujoud</h1>
 <h3 align="center">Cheminformatics and Bioinformatics Engineer | Molecular Modeling | CADD Specialist</h3>
 
 <p align="center">
