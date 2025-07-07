@@ -1,12 +1,11 @@
 <p align="center">
   
-<p align="left">
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%;"/>
+<p>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%; float: left;"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%; float: right;"/>
 </p>
+<div style="clear: both;"></div>
 
-<p align="right">
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%;"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm FARIS</h1>
 <h3 align="center">Cheminformatics and Bioinformatics Engineer | Molecular Modeling | CADD Specialist</h3>
