@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **molecular modeling, AlphaFold2, pharmacophore modeling, or building bioinformatics pipelines in Python**
 
-- 📫 How to reach me: **abdelmoujoud.faris@univ-angers.fr**
+- 📫 How to reach me: **abdelmoujoud.faris@usmba.ac.ma** & **abdelmoujoud.faris@univ-angers.fr**
 
 ---
 
