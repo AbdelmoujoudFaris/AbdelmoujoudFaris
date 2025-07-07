@@ -4,8 +4,8 @@
   <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Middle Image" width="200" style="border-radius: 50%; margin: 0 20px; display: inline-block;"/>
   
   <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/Human-Protein-in-Three-Dimensional-Space.gif?raw=true" alt="Left Image" width="200" style="border-radius: 50%; float: left;"/>
-  
-                                                       <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/hpc.png?raw=true" alt="Far Right Image" width="200" style="border-radius: 50%; float: right;"/>
+</p>  
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/hpc.png?raw=true" alt="Far Right Image" width="200" style="border-radius: 50%; float: right;"/>
 </p>
 <div style="clear: both;"></div>
 
