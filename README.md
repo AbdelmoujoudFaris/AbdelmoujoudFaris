@@ -42,29 +42,28 @@
 
 <h3 align="left">🧪 About Me</h3>
 
-Titulaire d’un **doctorat en chimie physique** avec une spécialisation en **modélisation moléculaire** (soutenu en avril 2025), je suis actuellement **ingénieur en bioinformatique et chémoinformatique** à l’Université d’Angers.
+Holder of a **PhD in Physical Chemistry** specializing in **molecular modeling** (defended in April 2025), I am currently a **bioinformatics and cheminformatics engineer** at the University of Angers.
 
-### 💼 Compétences et expertises
+### 💼 Skills and Expertise
 
-- Modélisation des interactions moléculaires : **docking**, **dynamique moléculaire**, **pharmacophore modeling**, **MM/PBSA**, **MM/GBSA**
-- Analyse **QSAR/QSPR** et **études SAR** assistées par **machine learning** et **intelligence artificielle**
-- Traitement et filtrage de bases de données : **Coconut**, **Atlas**, **Lotus**
-- Développement de pipelines de criblage et d’analyse avec **RDKit**, **Python**, **Jupyter**, **Google Colab**
-- Utilisation et déploiement d'outils sur **HPC** ou machine locale : *AutoDock (Vina, Smina, Gnina), GOLD, MOE, Schrödinger, GROMACS, Desmond, Amber*
+- Molecular interaction modeling: **docking**, **molecular dynamics**, **pharmacophore modeling**, **MM/PBSA**, **MM/GBSA**
+- Analysis of **QSAR/QSPR** and **SAR studies** supported by **machine learning** and **artificial intelligence**
+- Database processing and filtering: **Coconut**, **Atlas**, **Lotus**
+- Development of screening and analysis pipelines using **RDKit**, **Python**, **Jupyter**, **Google Colab**
+- Deployment and use of tools on **HPC** and local machines: *AutoDock (Vina, Smina, Gnina), GOLD, MOE, Schrödinger, GROMACS, Desmond, Amber*
 
-### 🧬 Projets récents
+### 🧬 Recent Projects
 
-- **Université Paris Cité (BFA)** : Design d’inhibiteurs peptidiques ciblant **JAK3**, via **AlphaFold2/3**, **MD**, **pharmacophore**, et **MM/PBSA**
-- **Laboratoire SONAS** (Angers) : Criblage pharmacophorique et modélisation d’inhibiteurs antifongiques naturels à partir de bases extraites (filtrage, docking, dynamique moléculaire, QSAR)
+- **Université Paris Cité (BFA Unit)**: Design of peptide inhibitors targeting **JAK3** using **AlphaFold2/3**, **MD simulations**, **pharmacophore modeling**, and **MM/PBSA**
+- **SONAS Lab** (Angers): Pharmacophore screening and modeling of natural antifungal inhibitors from curated databases (filtering, docking, molecular dynamics, QSAR)
 
-### 🚀 Objectifs et intérêts
+### 🚀 Goals and Interests
 
-Passionné par la chimie computationnelle et la chémoinformatique, j’explore activement les applications du **machine learning** et de l’**IA** en découverte de médicaments. Je suis également intéressé par :
-- les approches **PROTACs**
-- la modélisation **DFT** et **QM/MM**
-- l’intégration de nouvelles technologies computationnelles (ex : **AlphaFold 3**, **deep learning pipelines**)
+Passionate about computational chemistry and cheminformatics, I actively explore applications of **machine learning** and **AI** in drug discovery. My interests also include:
+- **DFT** and **QM/MM** modeling
+- Integration of new computational technologies (e.g., **AlphaFold 3**, **deep learning pipelines**)
 
-📍 Je suis actuellement en **CDD de 12 mois** au sein du **laboratoire SONAS**, avec échéance prévue en **septembre 2025**, et je suis **ouvert aux opportunités** en tant qu’**ingénieur d’étude en chémoinformatique** ou **chimiothécaire**.
+📍 I am currently on a at the **SONAS lab** as a **research engineer in cheminformatics** or **chemical informatics**.
 
 ---
 
