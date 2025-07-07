@@ -1,8 +1,8 @@
 <p align="center">
   
 <p>
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%; float: left;"/>
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%; float: right;"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="الصورة اليمنى" width="200" style="border-radius: 50%; float: right;"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="الصورة اليسرى" width="200" style="border-radius: 50%; float: left;"/>
 </p>
 <div style="clear: both;"></div>
 
