@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/CRL_HEADER.png?raw=true" alt="CADD Banner" width="800"/>
-</p>
-
+  
 <p align="center">
   <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 </p>
