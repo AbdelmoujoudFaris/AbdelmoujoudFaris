@@ -6,7 +6,7 @@
   <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/Human-Protein-in-Three-Dimensional-Space.gif?raw=true" alt="Left Image" width="200" style="border-radius: 50%; float: left;"/>
 </p>  
 
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/hpc.png?raw=true" alt="center" width="200" style="border-radius: 100%; float: right;"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/hpc.png?raw=true" alt="center" width="200" style="border-radius: 100%; float: center;"/>
   
 </p>
 <div style="clear: both;"></div>
