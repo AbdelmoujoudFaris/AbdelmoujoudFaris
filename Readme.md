@@ -4,6 +4,10 @@
   <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 </p>
 
+<p align="left">
+  <img src="[https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/1520236556533.jpg?raw=true" alt="Profile Image" width="200" style="border-radius: 50%;](https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/Human-Protein-in-Three-Dimensional-Space.gif)"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm FARIS</h1>
 <h3 align="center">Cheminformatics and Bioinformatics Engineer | Molecular Modeling | CADD Specialist</h3>
 
