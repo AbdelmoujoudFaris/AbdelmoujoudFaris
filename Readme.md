@@ -93,6 +93,11 @@ Holder of a **PhD in Physical Chemistry** specializing in **molecular modeling**
 
 ## 🚀 Recent Projects
 
+**CNRS / Université de Montpellier (BIOCAMPUS), France**
+- Structural Modeling and Molecular Interaction Analysis of Mono- and Bispecific Antibodies
+- Conducted detailed structural modeling of antibodies
+- Analyzed molecular interactions to understand binding mechanisms and specificity
+
 ### 🔬 Université Paris Cité (BFA Unit)
 **Peptide Inhibitor Design for JAK3**
 - Utilized AlphaFold2/3 for protein structure prediction
