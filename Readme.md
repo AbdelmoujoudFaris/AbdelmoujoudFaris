@@ -45,7 +45,7 @@
   <a href="https://www.researchgate.net/profile/Abdelmoujoud-Faris?ev=hdr_xprf" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
   </a>
-  <a href="https://orcid.org/0000-0003-4497-5013" target="_blank">
+  <a href="https://orcid.org/0000-0003-0781-6523" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   <a href="https://github.com/AbdelmoujoudFaris" target="_blank">
