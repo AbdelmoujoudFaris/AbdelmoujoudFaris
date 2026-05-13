@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/blob/main/CRL_HEADER.png?raw=true" alt="CADD Banner" width="850"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/?raw=true" alt="CADD Banner" width="850"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdelmoujoud FARIS</h1>
