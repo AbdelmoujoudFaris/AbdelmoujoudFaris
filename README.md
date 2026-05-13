@@ -33,7 +33,7 @@ My work sits at the intersection of **computational chemistry**, **structural bi
 
 - 🔭 Currently working on **AI-driven structural modeling (AlphaFold2), bioinformatics pipelines, and predictive models for biological properties** at CNRS / Université de Montpellier
 - 🧪 Previously: QSAR/SAR modeling, virtual screening, molecular docking, and generative AI for drug design at **SONAS Lab (Univ. Angers)** and **CNRS Paris Cité**
-- 📚 Author of **14 peer-reviewed publications** in international indexed journals (Scopus, Web of Science)
+- 📚 Author of **17 peer-reviewed publications** in international indexed journals (Scopus, Web of Science)
 - 🌱 Continuously learning: **Julia**, **Graph Neural Networks**, **cloud/GCP workflows**, and **generative molecular design**
 - 👯 Open to collaborate on **RNA–protein modeling, QSAR/SAR pipelines, molecular docking, hit-finding, and ADMET prediction**
 - 💬 Ask me about **QSAR modeling, AlphaFold2, molecular dynamics, pharmacophore design, cheminformatics pipelines in Python, or HPC workflows**
@@ -161,7 +161,7 @@ My work sits at the intersection of **computational chemistry**, **structural bi
 
 ## 📖 Publications
 
-📄 **14 peer-reviewed articles** indexed in Scopus & Web of Science
+📄 **17 peer-reviewed articles** indexed in Scopus & Web of Science
 
 Representative journals:
 - *Journal of Chemical Information and Modeling* (ACS)
