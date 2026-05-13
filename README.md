@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/Molecule%20Mind%20logo%20design.png?raw=true" alt="CADD Banner" width="850"/>
+  <img src="https://github.com/AbdelmoujoudFaris/ChemBio/Mmind.png?raw=true" alt="CADD Banner" width="850"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdelmoujoud FARIS</h1>
