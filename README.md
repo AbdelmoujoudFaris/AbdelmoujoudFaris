@@ -245,74 +245,485 @@ Representative journals:
 50. ann_sampling (Public)  
 51. vmd-cvs-github (Public)
 
-## Publications (ORCID: 0000-0003-0781-6523)
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-sans); }
 
-2026
-1. Advancing infection therapy: the role of novel menthol-based antimicrobials
-Authors: Annalisa Di Rienzo, Abdelmoujoud Faris, Marina Mingoia, Carmela Conte, Lorella Marinucci, Gloria Magi, Maria Concetta Cufaro, Piero Del Boccio, Marco Maioli, Antonio Di Stefano, Ivana Cacciatore
-Journal of Enzyme Inhibition and Medicinal Chemistry, Jan 2026
-DOI: 10.1080/14756366.2025.2596488
-2025
-2. Investigating the Chemical Diversity of hERG Inhibitors Using Cheminformatics and Machine Learning
-Authors: Nour-Eddine El Ouasti, Adnane Aouidate, Abdellah Ousaa, Abdelmoujoud Faris, Adib Ghaleb, Mohammed Aarjane, Moustapha Belmouden
-Journal of Computational Biophysics and Chemistry, 2025
-DOI: 10.1142/S2737416525500048
-2024
-3. Computational insights into rational design and virtual screening of pyrazolopyrimidine derivatives targeting Janus kinase 3 (JAK3)
-Authors: Abdelmoujoud Faris, Ivana Cacciatore, Radwan Alnajjar, Adnane Aouidate, Mohammed H. AL Mughram, Menana Elhallaoui
-Frontiers in Chemistry, Aug 2024
-DOI: 10.3389/fchem.2024.1425220
-4. Development of novel CDK9 and CYP3A4 inhibitors for cancer therapy through field and computational approaches
-Authors: Aisha A. Alsfouk, Abdelmoujoud Faris, Ivana Cacciatore, Radwan Alnajjar
-Frontiers in Chemistry, Oct 2024
-DOI: 10.3389/fchem.2024.1473398
-5. Revealing Innovative JAK1 and JAK3 Inhibitors: A Comprehensive Study Utilizing QSAR, 3D-Pharmacophore Screening, Molecular Docking, Molecular Dynamics, and MM/GBSA Analyses
-Authors: Abdelmoujoud Faris, Ivana Cacciatore, Radwan Alnajjar, Hadni Hanine, Adnane Aouidate, Ramzi A. Mothana, Abdullah R. Alanzi, Menana Elhallaoui
-Frontiers in Molecular Biosciences, Mar 2024
-DOI: 10.3389/fmolb.2024.1348277
-6. 3D computer modeling of inhibitors targeting the MCF-7 breast cancer cell line
-Authors: Sara Zarougui, Mohammed Er-rajy, Abdelmoujoud Faris, Hamada Imtara, Mohamed El Fadili, Ashraf A. Qurtam, Fahd A. Nasr, Mohammed Al-Zharani, Menana Elhallaoui
-Frontiers in Chemistry, May 2024
-DOI: 10.3389/fchem.2024.1384832
-7. In silico screening of a series of 1,6-disubstituted 1H-pyrazolo[3,4-d]pyrimidines as potential selective inhibitors of the Janus kinase 3
-Authors: Abdelmoujoud Faris, Hanine Hadni, Basil Abdulmahdi Saleh, Hocine Khelfaoui, Djamel Harkati, Hassan Ait Ahsaine, Gamal A. El-Hiti, Menana Elhallaoui
-Journal of Biomolecular Structure and Dynamics, 2024
-DOI: 10.1080/07391102.2023.2220829
-8. High-throughput virtual screening of phenylpyrimidine derivatives as selective JAK3 antagonists using computational methods
-Authors: Abdelmoujoud Faris, Ibrahim M. Ibrahim, Hanine Hadni, Menana Elhallaoui
-Journal of Biomolecular Structure and Dynamics, 2024
-DOI: 10.1080/07391102.2023.2240413
-9. Identification of Selective JAK3/STAT1 and CYP3A4 from Pyrazolopyrimidine Derivatives: A Search for Potential Drug Targets for Rheumatoid Arthritis using In-silico Drug Discovery Techniques
-Authors: Abdelmoujoud Faris, Ibrahim M. Ibrahim, Souvik Chakraborty, Omkulthom Al Kamaly, Sana Zuhair Alshawwa, Menana Elhallaoui
-Letters in Drug Design & Discovery, 2024
-(DOI not publicly indexed)
-2023
-10. Computational 3D Modeling-Based Identification of Inhibitors Targeting Cysteine Covalent Bond Catalysts for JAK3 and CYP3A4 Enzymes in the Treatment of Rheumatoid Arthritis
-Authors: Abdelmoujoud Faris, Radwan Alnajjar, Jingjing Guo, Mohammed H. AL Mughram, Adnane Aouidate, Mufarreh Asmari, Menana Elhallaoui
-Molecules, Dec 2023
-DOI: 10.3390/molecules29010023
-11. QSAR-driven screening uncovers and designs novel pyrimidine-4,6-diamine derivatives as potent JAK3 inhibitors
-Authors: Abdelmoujoud Faris, Ibrahim M. Ibrahim, Radwan Alnajjar, Hadni Hanine, Mohammed A. Bhat, Muhammad Yaseen, Souvik Chakraborty, Nada Alsakhen, Israa M. Shamkh, Fazal Mabood, Ahmed M. Naglah, Ihsan Ullah, Noha Ziedan, Menana Elhallaoui
-Journal of Biomolecular Structure and Dynamics, Dec 2023
-DOI: 10.1080/07391102.2023.2283168
-12. In silico computational drug discovery: a Monte Carlo approach for developing novel JAK3 inhibitors
-Authors: Abdelmoujoud Faris, Ivana Cacciatore, Ibrahim M. Ibrahim, Mohammed H. AL Mughram, Menana Elhallaoui
-Journal of Biomolecular Structure and Dynamics, Oct 2023
-DOI: 10.1080/07391102.2023.2270709
-13. Design of potential anti-cancer agents as COX-2 inhibitors, using 3D-QSAR modeling, molecular docking, oral bioavailability properties, and molecular dynamics simulation
-Authors: Mohammed Er-rajy, Mohamed El Fadili, Abdelmoujoud Faris, Menana Elhallaoui
-Anti-Cancer Drugs, Nov 2023
-(DOI not publicly indexed)
-14. QSAR, DFT studies, Docking Molecular and simulation dynamic molecular of 2-styrylquinoline derivatives through their anticancer activity
-Authors: Sara Zarougui, Mohammed Er-rajy, Abdelmoujoud Faris, Menana Elhallaoui
-Journal of Saudi Chemical Society, Sep 2023
-DOI: 10.1016/j.jscs.2023.101728
-15. Identification of Selective JAK3/STAT1 and CYP3A4 from Pyrazolopyrimidine Derivatives (Letters in Drug Design & Discovery — see #9 above)
-16. Computer-Aided Drug Design of Novel Derivatives of 2-Amino-7,9-dihydro-8H-purin-8-one as Potent Pan-Janus JAK3 Inhibitors
-Authors: Abdelmoujoud Faris, Ibrahim M. Ibrahim, Omkulthom Al Kamaly, Asmaa Saleh, Menana Elhallaoui
-Molecules, Aug 2023
-DOI: 10.3390/molecules28155914
-17. In silico discovery of potent and selective JAK3 inhibitors through 3D-QSAR, covalent docking, ADMET analysis, molecular dynamics simulations, and binding free energy of pyrazolopyrimidine derivatives
-Authors: Abdelmoujoud Faris, Hanine Hadni, Ibrahim M. Ibrahim, Menana Elhallaoui
-Journal of Biomolecular Structure and Dynamics, Jun 2023
-DOI: 10.1080/07391102.2023.2222839
+.hero {
+  padding: 2rem 0 1.5rem;
+  border-bottom: 0.5px solid var(--color-border-tertiary);
+  margin-bottom: 2rem;
+}
+.hero-name {
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+  margin-bottom: 4px;
+}
+.hero-sub {
+  font-size: 14px;
+  color: var(--color-text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.hero-sub a {
+  color: var(--color-text-info);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 13px;
+}
+.hero-sub a:hover { text-decoration: underline; }
+
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+.stat-card {
+  background: var(--color-background-secondary);
+  border-radius: var(--border-radius-md);
+  padding: 14px 16px;
+  text-align: center;
+}
+.stat-num {
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+.stat-label {
+  font-size: 12px;
+  color: var(--color-text-secondary);
+  margin-top: 2px;
+}
+
+.year-block { margin-bottom: 2.5rem; }
+.year-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.year-label::after {
+  content: '';
+  flex: 1;
+  height: 0.5px;
+  background: var(--color-border-tertiary);
+}
+
+.pub-card {
+  background: var(--color-background-primary);
+  border: 0.5px solid var(--color-border-tertiary);
+  border-radius: var(--border-radius-lg);
+  padding: 1rem 1.25rem;
+  margin-bottom: 10px;
+  transition: border-color 0.15s;
+  position: relative;
+}
+.pub-card:hover { border-color: var(--color-border-secondary); }
+
+.pub-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.pub-num {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  min-width: 22px;
+  margin-top: 2px;
+}
+.pub-title {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+  line-height: 1.45;
+  flex: 1;
+}
+
+.pub-meta {
+  padding-left: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.journal-badge {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: var(--border-radius-md);
+  border: 0.5px solid var(--color-border-secondary);
+  color: var(--color-text-secondary);
+  background: var(--color-background-secondary);
+}
+
+.pub-authors {
+  padding-left: 32px;
+  font-size: 12px;
+  color: var(--color-text-secondary);
+  line-height: 1.6;
+}
+.pub-authors .me { color: var(--color-text-primary); font-weight: 500; }
+
+.pub-footer {
+  padding-left: 32px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.doi-link {
+  font-size: 12px;
+  color: var(--color-text-info);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border: 0.5px solid var(--color-border-tertiary);
+  border-radius: var(--border-radius-md);
+  background: var(--color-background-secondary);
+}
+.doi-link:hover { border-color: var(--color-border-secondary); }
+.doi-missing {
+  font-size: 12px;
+  color: var(--color-text-tertiary);
+  font-style: italic;
+  padding: 4px 10px;
+}
+
+.jbsd { color: #0C447C; background: #E6F1FB; border-color: #B5D4F4; }
+.frontiers { color: #3B6D11; background: #EAF3DE; border-color: #C0DD97; }
+.molecules { color: #854F0B; background: #FAEEDA; border-color: #FAC775; }
+.others { color: #533490; background: #EEEDFE; border-color: #CECBF6; }
+.jeimed { color: #993C1D; background: #FAECE7; border-color: #F5C4B3; }
+</style>
+
+<h2 class="sr-only">Publications of Abdelmoujoud Faris — 17 peer-reviewed articles</h2>
+
+<div class="hero">
+  <div class="hero-name">Abdelmoujoud Faris</div>
+  <div class="hero-sub">
+    <span>PhD · Computational Chemistry & Bioinformatics</span>
+    <a href="https://orcid.org/0000-0003-0781-6523" target="_blank"><i class="ti ti-id-badge" aria-hidden="true"></i>ORCID 0000-0003-0781-6523</a>
+    <a href="https://www.researchgate.net/profile/Abdelmoujoud-Faris" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>ResearchGate</a>
+    <span>CNRS / Université de Montpellier – BIOCAMPUS</span>
+  </div>
+</div>
+
+<div class="stats-row">
+  <div class="stat-card">
+    <div class="stat-num">17</div>
+    <div class="stat-label">Publications</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">15</div>
+    <div class="stat-label">DOIs indexed</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">2023–2026</div>
+    <div class="stat-label">Active years</div>
+  </div>
+</div>
+
+<div class="year-block">
+  <div class="year-label">2026</div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">1</span>
+      <span class="pub-title">Advancing infection therapy: the role of novel menthol-based antimicrobials</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge jeimed">J. Enzyme Inhib. Med. Chem.</span>
+    </div>
+    <div class="pub-authors">
+      A. Di Rienzo, <span class="me">A. Faris</span>, M. Mingoia, C. Conte, L. Marinucci, G. Magi, M.C. Cufaro, P. Del Boccio, M. Maioli, A. Di Stefano, I. Cacciatore
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1080/14756366.2025.2596488" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1080/14756366.2025.2596488</a>
+    </div>
+  </div>
+</div>
+
+<div class="year-block">
+  <div class="year-label">2025</div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">2</span>
+      <span class="pub-title">Investigating the chemical diversity of hERG inhibitors using cheminformatics and machine learning</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge others">J. Comput. Biophys. Chem.</span>
+    </div>
+    <div class="pub-authors">
+      N.-E. El Ouasti, A. Aouidate, A. Ousaa, <span class="me">A. Faris</span>, A. Ghaleb, M. Aarjane, M. Belmouden
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1142/S2737416525500048" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1142/S2737416525500048</a>
+    </div>
+  </div>
+</div>
+
+<div class="year-block">
+  <div class="year-label">2024</div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">3</span>
+      <span class="pub-title">Computational insights into rational design and virtual screening of pyrazolopyrimidine derivatives targeting Janus kinase 3 (JAK3)</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge frontiers">Front. Chem.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I. Cacciatore, R. Alnajjar, A. Aouidate, M.H. AL Mughram, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.3389/fchem.2024.1425220" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.3389/fchem.2024.1425220</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">4</span>
+      <span class="pub-title">Development of novel CDK9 and CYP3A4 inhibitors for cancer therapy through field and computational approaches</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge frontiers">Front. Chem.</span>
+    </div>
+    <div class="pub-authors">
+      A.A. Alsfouk, <span class="me">A. Faris</span>, I. Cacciatore, R. Alnajjar
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.3389/fchem.2024.1473398" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.3389/fchem.2024.1473398</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">5</span>
+      <span class="pub-title">Revealing innovative JAK1 and JAK3 inhibitors: a comprehensive study utilizing QSAR, 3D-pharmacophore screening, molecular docking, molecular dynamics, and MM/GBSA analyses</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge frontiers">Front. Mol. Biosci.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I. Cacciatore, R. Alnajjar, H. Hanine, A. Aouidate, R.A. Mothana, A.R. Alanzi, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.3389/fmolb.2024.1348277" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.3389/fmolb.2024.1348277</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">6</span>
+      <span class="pub-title">3D computer modeling of inhibitors targeting the MCF-7 breast cancer cell line</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge frontiers">Front. Chem.</span>
+    </div>
+    <div class="pub-authors">
+      S. Zarougui, M. Er-rajy, <span class="me">A. Faris</span>, H. Imtara, M. El Fadili, A.A. Qurtam, F.A. Nasr, M. Al-Zharani, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.3389/fchem.2024.1384832" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.3389/fchem.2024.1384832</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">7</span>
+      <span class="pub-title">In silico screening of a series of 1,6-disubstituted 1H-pyrazolo[3,4-d]pyrimidines as potential selective inhibitors of the Janus kinase 3</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge jbsd">J. Biomol. Struct. Dyn.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, H. Hadni, B.A. Saleh, H. Khelfaoui, D. Harkati, H. Ait Ahsaine, G.A. El-Hiti, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1080/07391102.2023.2220829" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1080/07391102.2023.2220829</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">8</span>
+      <span class="pub-title">High-throughput virtual screening of phenylpyrimidine derivatives as selective JAK3 antagonists using computational methods</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge jbsd">J. Biomol. Struct. Dyn.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I.M. Ibrahim, H. Hadni, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1080/07391102.2023.2240413" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1080/07391102.2023.2240413</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">9</span>
+      <span class="pub-title">Identification of selective JAK3/STAT1 and CYP3A4 from pyrazolopyrimidine derivatives: a search for potential drug targets for rheumatoid arthritis using in-silico drug discovery techniques</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge others">Lett. Drug Des. Discov.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I.M. Ibrahim, S. Chakraborty, O. Al Kamaly, S.Z. Alshawwa, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <span class="doi-missing"><i class="ti ti-info-circle" aria-hidden="true"></i> DOI not yet publicly indexed</span>
+    </div>
+  </div>
+</div>
+
+<div class="year-block">
+  <div class="year-label">2023</div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">10</span>
+      <span class="pub-title">Computational 3D modeling-based identification of inhibitors targeting cysteine covalent bond catalysts for JAK3 and CYP3A4 enzymes in the treatment of rheumatoid arthritis</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge molecules">Molecules</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, R. Alnajjar, J. Guo, M.H. AL Mughram, A. Aouidate, M. Asmari, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.3390/molecules29010023" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.3390/molecules29010023</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">11</span>
+      <span class="pub-title">QSAR-driven screening uncovers and designs novel pyrimidine-4,6-diamine derivatives as potent JAK3 inhibitors</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge jbsd">J. Biomol. Struct. Dyn.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I.M. Ibrahim, R. Alnajjar, H. Hanine, M.A. Bhat, M. Yaseen, S. Chakraborty, N. Alsakhen, I.M. Shamkh, F. Mabood, A.M. Naglah, I. Ullah, N. Ziedan, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1080/07391102.2023.2283168" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1080/07391102.2023.2283168</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">12</span>
+      <span class="pub-title">In silico computational drug discovery: a Monte Carlo approach for developing novel JAK3 inhibitors</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge jbsd">J. Biomol. Struct. Dyn.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I. Cacciatore, I.M. Ibrahim, M.H. AL Mughram, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1080/07391102.2023.2270709" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1080/07391102.2023.2270709</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">13</span>
+      <span class="pub-title">Design of potential anti-cancer agents as COX-2 inhibitors, using 3D-QSAR modeling, molecular docking, oral bioavailability properties, and molecular dynamics simulation</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge others">Anti-Cancer Drugs</span>
+    </div>
+    <div class="pub-authors">
+      M. Er-rajy, M. El Fadili, <span class="me">A. Faris</span>, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <span class="doi-missing"><i class="ti ti-info-circle" aria-hidden="true"></i> DOI not yet publicly indexed</span>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">14</span>
+      <span class="pub-title">QSAR, DFT studies, docking molecular and simulation dynamic molecular of 2-styrylquinoline derivatives through their anticancer activity</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge others">J. Saudi Chem. Soc.</span>
+    </div>
+    <div class="pub-authors">
+      S. Zarougui, M. Er-rajy, <span class="me">A. Faris</span>, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1016/j.jscs.2023.101728" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1016/j.jscs.2023.101728</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">15</span>
+      <span class="pub-title">Computer-aided drug design of novel derivatives of 2-amino-7,9-dihydro-8H-purin-8-one as potent pan-Janus JAK3 inhibitors</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge molecules">Molecules</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I.M. Ibrahim, O. Al Kamaly, A. Saleh, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.3390/molecules28155914" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.3390/molecules28155914</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">16</span>
+      <span class="pub-title">In silico discovery of potent and selective JAK3 inhibitors through 3D-QSAR, covalent docking, ADMET analysis, molecular dynamics simulations, and binding free energy of pyrazolopyrimidine derivatives</span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge jbsd">J. Biomol. Struct. Dyn.</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, H. Hadni, I.M. Ibrahim, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <a class="doi-link" href="https://doi.org/10.1080/07391102.2023.2222839" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i>10.1080/07391102.2023.2222839</a>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-top">
+      <span class="pub-num">17</span>
+      <span class="pub-title">In silico prediction of potent pan-Janus kinase (JAK3) and CYP3A4 inhibitors using 2-imidazopyridine and 2-aminopyridone purinones via computer-aided drug design <em style="font-size:12px; font-weight:400; color:var(--color-text-tertiary)">(preprint)</em></span>
+    </div>
+    <div class="pub-meta">
+      <span class="journal-badge others">Preprint · 2023</span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">A. Faris</span>, I.M. Ibrahim, O. Al Kamaly, M. Elhallaoui
+    </div>
+    <div class="pub-footer">
+      <span class="doi-missing"><i class="ti ti-info-circle" aria-hidden="true"></i> Published version supersedes preprint</span>
+    </div>
+  </div>
+</div>
+
