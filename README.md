@@ -248,76 +248,6 @@ Representative journals:
 ## Publications (ORCID: 0000-0003-0781-6523)
 2026
 1. Advancing infection therapy: the role of novel menthol-based antimicrobials
-Journal of Enzyme Inhibition and Medicinal Chemistry, Jan 2026
-DOI: 10.1080/14756366.2025.2596488 nih
-
-2025
-2. Investigating the Chemical Diversity of hERG Inhibitors Using Cheminformatics and Machine Learning
-Journal of Computational Biophysics and Chemistry, 2025
-DOI: 10.1142/S2737416525500048 World Scientific
-3. Revealing Innovative JAK1 and JAK3 Inhibitors: A Comprehensive Study Utilizing QSAR, 3D-Pharmacophore Screening, Molecular Docking, Molecular Dynamics, and MM/GBSA Analyses
-Frontiers in Molecular Biosciences (published online Dec 2023, volume 2025)
-DOI: 10.1080/07391102.2023.2283168 PubMed
-
-2024
-4. Computational insights into rational design and virtual screening of pyrazolopyrimidine derivatives targeting Janus kinase 3 (JAK3)
-Frontiers in Chemistry, Aug 2024
-DOI: 10.3389/fchem.2024.1425220 nih
-5. Development of novel CDK9 and CYP3A4 inhibitors for cancer therapy through field and computational approaches
-Frontiers in Chemistry, Oct 2024
-DOI: 10.3389/fchem.2024.1473398 Frontiers
-6. Revealing Innovative JAK1 and JAK3 Inhibitors (Front. Mol. Biosci.)
-Frontiers in Molecular Biosciences, Mar 2024
-DOI: 10.3389/fmolb.2024.1348277 PubMed
-7. 3D computer modeling of inhibitors targeting the MCF-7 breast cancer cell line
-Frontiers in Chemistry, May 2024
-DOI: 10.3389/fchem.2024.1384832 Frontiers
-8. In silico screening of a series of 1,6-disubstituted 1H-pyrazolo[3,4-d]pyrimidines as potential selective inhibitors of the Janus kinase 3
-Journal of Biomolecular Structure and Dynamics, 2024
-DOI: 10.1080/07391102.2023.2220829 Frontiers
-9. High-throughput virtual screening of phenylpyrimidine derivatives as selective JAK3 antagonists using computational methods
-Journal of Biomolecular Structure and Dynamics, 2024
-DOI: 10.1080/07391102.2023.2240413 PubMed
-10. Identification of Selective JAK3/STAT1 and CYP3A4 from Pyrazolopyrimidine Derivatives: A Search for Potential Drug Targets for Rheumatoid Arthritis using In-silico Drug Discovery Techniques
-Letters in Drug Design & Discovery, 2024
-(DOI not yet publicly indexed — listed in ResearchGate/Frontiers references as published 2024)
-
-2023
-11. Computational 3D Modeling-Based Identification of Inhibitors Targeting Cysteine Covalent Bond Catalysts for JAK3 and CYP3A4 Enzymes in the Treatment of Rheumatoid Arthritis
-Molecules, Dec 2023
-DOI: 10.3390/molecules29010023 nih
-12. QSAR-driven screening uncovers and designs novel pyrimidine-4,6-diamine derivatives as potent JAK3 inhibitors
-Journal of Biomolecular Structure and Dynamics, Dec 2023
-DOI: 10.1080/07391102.2023.2283168 DOI
-13. In silico computational drug discovery: a Monte Carlo approach for developing novel JAK3 inhibitors
-Journal of Biomolecular Structure and Dynamics, Oct 2023
-DOI: 10.1080/07391102.2023.2270709 Taylor & Francis Online
-14. QSAR, DFT studies, Docking Molecular and simulation dynamic molecular of 2-styrylquinoline derivatives through their anticancer activity
-Journal of Saudi Chemical Society, Sep 2023
-DOI: 10.1016/j.jscs.2023.101728 Frontiers
-15. Computer-Aided Drug Design of Novel Derivatives of 2-Amino-7,9-dihydro-8H-purin-8-one as Potent Pan-Janus JAK3 Inhibitors
-Molecules, Aug 2023
-DOI: 10.3390/molecules28155914 nih
-16. In silico discovery of potent and selective JAK3 inhibitors through 3D-QSAR, covalent docking, ADMET analysis, molecular dynamics simulations, and binding free energy of pyrazolopyrimidine derivatives
-Journal of Biomolecular Structure and Dynamics, Jun 2023
-DOI: 10.1080/07391102.2023.2222839 Taylor & Francis Online
-17. Design of potential anti-cancer agents as COX-2 inhibitors, using 3D-QSAR modeling, molecular docking, oral bioavailability properties, and molecular dynamics simulation
-Anti-Cancer Drugs, Nov 2023
-(DOI not publicly indexed in search results — listed in ResearchGate profile)
-
-Preprint (2023)
-18. In Silico Prediction of Potent Pan-Janus Kinase (JAK3) and CYP3A4 Inhibitors Using 2-Imidazopyridine and 2-Aminopyridone Purinones via Computer-Aided Drug Design
-Preprint, Jun 2023 — published version available
-(No confirmed DOI found for preprint; published version supersedes)
-
-
-Note: Two articles — Identification of Selective JAK3/STAT1 (Letters in Drug Design & Discovery) and Design of potential anti-cancer agents as COX-2 inhibitors (Anti-Cancer Drugs) — were listed as private full-text on ResearchGate and their DOIs could not be retrieved from public sources. If you need those, checking your ResearchGate profile directly or contacting the journals would be the surest route.
-You said: add authorsadd authors21:51Claude responded: Here is the complete list with all authors added:Here is the complete list with all authors added:
-
-Publications of Abdelmoujoud Faris (ORCID: 0000-0003-0781-6523)
-
-2026
-1. Advancing infection therapy: the role of novel menthol-based antimicrobials
 Authors: Annalisa Di Rienzo, Abdelmoujoud Faris, Marina Mingoia, Carmela Conte, Lorella Marinucci, Gloria Magi, Maria Concetta Cufaro, Piero Del Boccio, Marco Maioli, Antonio Di Stefano, Ivana Cacciatore
 Journal of Enzyme Inhibition and Medicinal Chemistry, Jan 2026
 DOI: 10.1080/14756366.2025.2596488
@@ -388,9 +318,3 @@ DOI: 10.3390/molecules28155914
 Authors: Abdelmoujoud Faris, Hanine Hadni, Ibrahim M. Ibrahim, Menana Elhallaoui
 Journal of Biomolecular Structure and Dynamics, Jun 2023
 DOI: 10.1080/07391102.2023.2222839
-
-Preprint (2023)
-18. In Silico Prediction of Potent Pan-Janus Kinase (JAK3) and CYP3A4 Inhibitors Using 2-Imidazopyridine and 2-Aminopyridone Purinones via Computer-Aided Drug Design
-Authors: Abdelmoujoud Faris, Ibrahim M. Ibrahim, Omkulthom Al Kamaly, Menana Elhallaoui
-Preprint, Jun 2023
-(Published version supersedes; DOI not confirmed for preprint)
