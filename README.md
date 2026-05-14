@@ -41,6 +41,48 @@ My work sits at the intersection of **computational chemistry**, **structural bi
 
 ---
 
+## 🚀 Featured Project: Data2Discovery — Plateforme Multi‑Omique
+
+**GitHub:** [Data2Discovery](https://github.com/AbdelmoujoudFaris/Data2Discovery) (public, production-ready)
+
+A **no‑code required** R Shiny dashboard for **transcriptomics, metabolomics, multi‑omic integration, and biological network analysis**. Designed for bench scientists and bioinformaticians alike.
+
+### 📊 RNA‑seq pipeline (full reproducibility)
+- Quality control: **FastQC**, **MultiQC**
+- Trimming: **Trimmomatic**
+- Alignment: **STAR** (with splice‑aware indexing)
+- Quantification: **Salmon** (transcript‑level → gene‑level via **tximport**)
+- Differential expression: **DESeq2**, **edgeR**, **limma‑voom**
+- Visualisation: PCA, heatmaps, volcano plots, MA plots
+- Batch correction: **ComBat‑seq**
+
+### 🧪 Metabolomics pipeline
+- Imputation: k‑NN, half‑minimum, zero‑replacement
+- Normalisation: PQN (Probabilistic Quotient Normalisation), log‑transform, auto‑scaling
+- Multivariate analysis: **PLS‑DA** with **VIP** scoring, model validation (cross‑validation, permutation tests)
+- Pathway enrichment: hypergeometric test against **KEGG** / **HMDB** databases
+
+### 🔗 Multi‑omic integration
+- Gene–metabolite correlation: **Pearson / Spearman** with **FDR (BH)** correction
+- Joint pathway enrichment: over‑representation analysis on shared pathways
+- Integrated heatmaps: expression + abundance + correlation overlay
+
+### 🌐 Network analysis
+- Build **weighted correlation graphs** (|r| > 0.6 threshold)
+- Centrality measures: degree, betweenness, clustering coefficient
+- Export to **Cytoscape** (`.sif`, `.graphml`)
+
+### ⚙️ Production infrastructure
+- **Snakemake** orchestration for end‑to‑end reproducibility
+- **Conda** environments (per‑tool isolation)
+- **Docker** containerisation (ready to deploy)
+- **Automatic provenance tracking** (`sessionInfo()`, file manifests, timestamps)
+- **Web interface** (`app.py` – Shiny for Python / R)
+
+> 💡 *Ideal for core facility deployment or standalone use – no command line required for end‑users.*
+
+---
+
 ## 🛠️ Core Expertise
 
 ### 🔬 CADD & Molecular Design
