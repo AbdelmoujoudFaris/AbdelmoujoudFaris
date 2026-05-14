@@ -246,18 +246,17 @@ Representative journals:
 51. vmd-cvs-github (Public)
 
 ## Publications (ORCID: 0000-0003-0781-6523)
+
 2026
 1. Advancing infection therapy: the role of novel menthol-based antimicrobials
 Authors: Annalisa Di Rienzo, Abdelmoujoud Faris, Marina Mingoia, Carmela Conte, Lorella Marinucci, Gloria Magi, Maria Concetta Cufaro, Piero Del Boccio, Marco Maioli, Antonio Di Stefano, Ivana Cacciatore
 Journal of Enzyme Inhibition and Medicinal Chemistry, Jan 2026
 DOI: 10.1080/14756366.2025.2596488
-
 2025
 2. Investigating the Chemical Diversity of hERG Inhibitors Using Cheminformatics and Machine Learning
 Authors: Nour-Eddine El Ouasti, Adnane Aouidate, Abdellah Ousaa, Abdelmoujoud Faris, Adib Ghaleb, Mohammed Aarjane, Moustapha Belmouden
 Journal of Computational Biophysics and Chemistry, 2025
 DOI: 10.1142/S2737416525500048
-
 2024
 3. Computational insights into rational design and virtual screening of pyrazolopyrimidine derivatives targeting Janus kinase 3 (JAK3)
 Authors: Abdelmoujoud Faris, Ivana Cacciatore, Radwan Alnajjar, Adnane Aouidate, Mohammed H. AL Mughram, Menana Elhallaoui
@@ -287,7 +286,6 @@ DOI: 10.1080/07391102.2023.2240413
 Authors: Abdelmoujoud Faris, Ibrahim M. Ibrahim, Souvik Chakraborty, Omkulthom Al Kamaly, Sana Zuhair Alshawwa, Menana Elhallaoui
 Letters in Drug Design & Discovery, 2024
 (DOI not publicly indexed)
-
 2023
 10. Computational 3D Modeling-Based Identification of Inhibitors Targeting Cysteine Covalent Bond Catalysts for JAK3 and CYP3A4 Enzymes in the Treatment of Rheumatoid Arthritis
 Authors: Abdelmoujoud Faris, Radwan Alnajjar, Jingjing Guo, Mohammed H. AL Mughram, Adnane Aouidate, Mufarreh Asmari, Menana Elhallaoui
