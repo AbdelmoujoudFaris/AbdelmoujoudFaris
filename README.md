@@ -27,7 +27,7 @@
 
 ## 🧬 About Me
 
-I am a **PhD in Physical Chemistry** (Molecular Modeling & Cheminformatics) currently working as a **Research Engineer in Bioinformatics** at **CNRS / Université de Montpellier – BIOCAMPUS**.
+I am a **PhD in Physical Chemistry** (Molecular Modeling & Cheminformatics) currently working as a **Research in Bioinformatics** at **CNRS / Université de Montpellier – BIOCAMPUS**.
 
 My work sits at the intersection of **computational chemistry**, **structural bioinformatics**, and **artificial intelligence**, with a focus on accelerating the discovery of bioactive molecules through data-driven and physics-based approaches.
 
