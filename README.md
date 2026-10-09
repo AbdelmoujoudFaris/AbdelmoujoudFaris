@@ -1,6 +1,4 @@
-```html
-<p align="center"><img src="https://raw.githubusercontent.com/AbdelmoujoudFaris/ChemBio/main/Mmind.png" alt="CADD Banner" width="500"/><br/><h1>Hi 👋, I'm Abdelmoujoud FARIS</h1></p>
-```
+<div align="center"><img src="https://raw.githubusercontent.com/AbdelmoujoudFaris/ChemBio/main/Mmind.png" alt="CADD Banner" width="500"/><h1>Hi 👋, I'm Abdelmoujoud FARIS</h1></div>
 
 <h3 align="center">
   Computational Chemist & Bioinformatician &nbsp;|&nbsp;
