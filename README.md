@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/AbdelmoujoudFaris">
     <img src="./contrib.svg" alt="GitHub contributions in the last year" width="100%"/>
+  </a>
 </p>
 
 <p align="left">
