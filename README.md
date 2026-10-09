@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AbdelmoujoudFaris">
-    <img src="https://ghchart.rshah.org/AbdelmoujoudFaris" alt="GitHub contributions in the last year" width="100%"/>
+    <img src="./contrib.svg" alt="GitHub contributions in the last year" width="100%"/>
   </a>
 </p>
 
