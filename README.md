@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
   <img src="https://raw.githubusercontent.com/AbdelmoujoudFaris/ChemBio/main/Mmind.png" alt="CADD Banner" width="500"/>
 </p>
 <h1 align="center">Hi 👋, I'm Abdelmoujoud FARIS</h1>
