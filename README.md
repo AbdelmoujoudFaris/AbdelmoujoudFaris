@@ -19,7 +19,7 @@
   <a href="https://www.researchgate.net/profile/Abdelmoujoud-Faris?ev=hdr_xprf" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
-  <a href="https://www.youtube.com/@ChemBioInfo/playlists" target="_blank">
+  <a href="https://www.youtube.com/@Bytem2mind/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://x.com/ABDELMOUJO97961" target="_blank">
